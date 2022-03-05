@@ -11,7 +11,7 @@ Randoli Challenge
 <table>
   <tr> 
     <td>Java</td>
-    <td>Dependências</td>
+    <td>Maven Project</td>
     <td>PostgreSQL</td>
     <td>flyway</ts>
     <td>lombok</td>
@@ -20,7 +20,7 @@ Randoli Challenge
   </tr>
   <tr> 
     <td>11</td>
-    <td>consultar pom.xml</td>
+    <td>2.6.3</td>
     <td>*</td>
     <td>*</td>
     <td>*</td>
