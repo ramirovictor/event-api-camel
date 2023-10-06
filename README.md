@@ -1,30 +1,18 @@
-# event-api-camel
-Randoli Challenge
+# `event-api-camel` 🐫
+## Randoli Challenge
 
-## REST API to perform CRUD operations for the ‘Event’ entity with Apache Camel
+### REST API to perform CRUD operations for the ‘Event’ entity with Apache Camel
+> **Status:** 🔄 In Process
 
-> Status: in process
+_Note: Code is in English._
 
-####code in English
+## 💼 Technologies and Tools
 
-## Technologies and Tools
-<table>
-  <tr> 
-    <td>Java</td>
-    <td>Maven Project</td>
-    <td>PostgreSQL</td>
-    <td>flyway</ts>
-    <td>lombok</td>
-    <td>Eclpse Spring Tools Suite</td>
-    <td>Windows</td>
-  </tr>
-  <tr> 
-    <td>11</td>
-    <td>2.6.3</td>
-    <td>*</td>
-    <td>*</td>
-    <td>*</td>
-    <td>4</td>
-    <td>10</td>
-  </tr>
-</table>
+![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Maven Badge](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white) Version: 2.6.3
+![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Flyway Badge](https://img.shields.io/badge/-Flyway-FFCA00?style=flat-square&logo=flyway&logoColor=black)
+![Lombok Badge](https://img.shields.io/badge/-Lombok-BC4521?style=flat-square)
+![Eclipse Badge](https://img.shields.io/badge/-Eclipse_Spring_Tools_Suite-2C2255?style=flat-square&logo=eclipse&logoColor=white) Version: 4
+![Windows Badge](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
